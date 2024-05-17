@@ -1,6 +1,7 @@
 {
   "packages": {
     ".": {
+      "version-file": "lib/lvm/version.rb",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
       "draft": false,
